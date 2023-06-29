@@ -1,0 +1,23 @@
+2 # Topology analysis
+2 # Search CPs from nuclear positions
+3 # Search CPs from midpoint of atom pairs
+8 # Generating the paths connecting (3,-3) and (3,-1) CPs
+-5 # Modify or print detail or export paths, or plot property along a path
+8 # Only retain bond paths (and corresponding CPs) connecting two specific molecular fragments while remove all other bond paths and BCPs
+1-32 # atoms belonging to first fragment
+33-20000 # atoms belonging to second fragment
+y # remove corresponding BCPs
+4 # Save points of all paths to paths.txt in current folder
+0 # Return
+-4 # Modify or export CPs (critical points)
+4 # Save CPs to CPs.txt in current folder
+0 # Return
+7 # Show real space function values at specific CP or all CPs
+0 # All properties (-1 to skip ESP → makes it faster)
+-10 # Return to main menu
+q # Exit program gracefully
+
+# OUTPUTS
+# CPProp.txt → real-space values of CPs
+# CP.txt → coordinates of CPs (might already be contained in CPProp.txt)
+# paths.txt → path connectivity

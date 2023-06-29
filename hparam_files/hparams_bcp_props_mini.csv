@@ -1,0 +1,3 @@
+run_id,batch_size,kernel_dim,mlp_dim,cutoff,baseline_atom_ids,aggr,pool,properties,n_kernels,ncp_graph
+run_00000,16,16,128,6,False,mean,mean,yyyyyyyyy,5,False
+run_00001,16,16,256,6,False,mean,mean,yyyyyyyyy,5,False

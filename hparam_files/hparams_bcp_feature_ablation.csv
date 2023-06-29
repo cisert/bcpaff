@@ -1,0 +1,13 @@
+run_id,batch_size,kernel_dim,mlp_dim,cutoff,baseline_atom_ids,aggr,pool,properties,n_kernels,ncp_graph
+run_00146,128,128,256,6,False,mean,mean,yyyyyyyyy,5,False
+run_00246,128,128,256,6,False,mean,mean,ynnnnnnnn,5,False
+run_00346,128,128,256,6,False,mean,mean,nynnnnnnn,5,False
+run_00446,128,128,256,6,False,mean,mean,nnynnnnnn,5,False
+run_00546,128,128,256,6,False,mean,mean,nnnynnnnn,5,False
+run_00646,128,128,256,6,False,mean,mean,nnnnynnnn,5,False
+run_00746,128,128,256,6,False,mean,mean,nnnnnynnn,5,False
+run_00846,128,128,256,6,False,mean,mean,nnnnnnynn,5,False
+run_00946,128,128,256,6,False,mean,mean,nnnnnnnyn,5,False
+run_01046,128,128,256,6,False,mean,mean,nnnnnnnny,5,False
+run_01046,128,128,256,6,False,mean,mean,yynnnnnnn,5,False
+run_01046,128,128,256,6,False,mean,mean,yynnynnnn,5,False
