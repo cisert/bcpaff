@@ -1,6 +1,6 @@
 # bcpaff - Exploring protein-ligand binding affinity prediction with electron density-based geometric deep learning
 
-Details are described in our [paper] (TODO: add link). Please cite if you use this work.
+Details are described in our [paper](https://doi.org/10.26434/chemrxiv-2023-585vf). Please cite if you use this work.
 
 ![](img.png)
 
